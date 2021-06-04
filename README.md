@@ -1,3 +1,18 @@
+# Phonebook Frontend
+#### [Placeholder text]
+
+---
+
+## Technologies Used:
+- Axios
+- React
+- React Hooks
+- React Context
+- React Table
+- MomentJs
+- Semantic UI / CSS
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
